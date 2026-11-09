@@ -1,0 +1,6 @@
+ ~/Proy/p/fs-containers  on main  sudo docker start -i sharp_austin              INT ✘  took 1m 31s  at 08:22:14 PM 
+root@09d4c4feb349:/# nano usr/src/app/index.js 
+root@09d4c4feb349:/# cat usr/src/app/index.js 
+console.log("Hello World");
+root@09d4c4feb349:/# exit
+exit
